@@ -1,3 +1,5 @@
+package Gioi1;
+
 import java.util.Scanner;
 
 public class Gioi1 {
